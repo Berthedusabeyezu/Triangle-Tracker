@@ -8,5 +8,9 @@ function triangleTracker(){
     }
     else if (x === y || x === z || y === z ) {
         alert("Isosceles Triangle");
-    }    
+    } 
+    
+    else if (x !== y && y !== z ) {
+        alert("Scalene Triangle");
+    }
 }
