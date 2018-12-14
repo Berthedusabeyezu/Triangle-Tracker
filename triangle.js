@@ -13,4 +13,7 @@ function triangleTracker(){
     else if (x !== y && y !== z ) {
         alert("Scalene Triangle");
     }
+    else if ((x+y)<=z || (x+z)<=y || (y+z)<=x) {
+        alert("This is not a Triangle");
+    }
 }
