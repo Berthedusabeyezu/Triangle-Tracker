@@ -17,3 +17,6 @@ I have used google chrome, Terminal, Visual Studio Code and the languages like h
 ## Technologies used
 Chrome, Html, JavaScipt and Css
 
+## Contact information
+0781175699
+berthe1030@gmail.com
