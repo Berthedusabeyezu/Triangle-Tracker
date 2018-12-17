@@ -1,5 +1,10 @@
 body{
     text-align: center;
     background: url(https://st3.depositphotos.com/6410834/17743/v/1600/depositphotos_177435970-stock-illustration-pink-triangle-background-design-geometric.jpgnd-image:  
-);
+    );
+    border-style: solid;
+}
+h1{
+    color:blueviolet;
+    font-family:Verdana;    
 }
