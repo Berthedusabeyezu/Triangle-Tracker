@@ -5,4 +5,6 @@ I have doing different triangle such as (equilateal, isoscele and scalene trangl
 ## Author(s) information
 Berthe DUSABEYEZU
 email: berthe1030@gmail.com
- 
+## Setup instructions
+I have used google chrome, Terminal, Visual Studio Code and the languages like html, JavaScipt and css
+    
