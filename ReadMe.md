@@ -20,3 +20,5 @@ Chrome, Html, JavaScipt and Css
 ## Contact information
 0781175699
 berthe1030@gmail.com
+## License and Copyright information
+Copyright & copy 2018
